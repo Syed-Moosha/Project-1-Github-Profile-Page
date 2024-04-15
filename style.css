@@ -1,0 +1,46 @@
+@import url('https://fonts.cdnfonts.com/css/segoe-ui-4');
+.navb{
+    background-color: #2F3D46 !important;
+}
+.fa{
+    color:white;
+}
+.ttc{
+    color:white;    
+}
+.github
+{
+    color: white !important;
+    margin-right: 600px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bbc, body{
+    background-color: #CAD2C5 !important;
+    border:none !important;
+}
+
+::placeholder{
+    color:#999999 !important;
+}
+.sb{
+    padding-top:115% !important;
+    border-radius: 10px;
+    margin: 33px !important;
+
+}
+.swd{
+    width:80% !important
+}
+.lwd{
+    
+    width:100% !important
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight:600 !important;
+    font-style:normal;
+    font-variation-settings:
+    "wdth" 125;
+}
